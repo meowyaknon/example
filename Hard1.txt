@@ -1,0 +1,16 @@
+Description:
+เขียนโปรแกรม
+เพื่อตรวจสอบว่าสตริงที่รับเข้ามาเป็น palindrome หรือไม่
+ไม่สนช่องว่างและไม่สนตัวพิมพ์ใหญ่เล็ก
+
+Input Specification:
+- อินพุตเป็นสตริง 1 บรรทัด
+
+Output Specification:
+- คืนค่า True ถ้าเป็น palindrome
+- คืนค่า False ถ้าไม่ใช่
+
+Example Testcases:
+Input: "Madam" → Output: True
+Input: "nurses run" → Output: True
+Input: "Python" → Output: False

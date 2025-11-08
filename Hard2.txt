@@ -1,0 +1,16 @@
+Description:
+เขียนโปรแกรม
+เพื่อหาคำที่ปรากฏบ่อยที่สุดในประโยค
+หากมีหลายคำความถี่เท่ากัน ให้คืนคำแรกที่พบ
+
+Input Specification:
+- อินพุตเป็นสตริง 1 บรรทัด
+- คำคั่นด้วยช่องว่าง
+
+Output Specification:
+- คืนค่าคำที่เจอบ่อยที่สุด (สตริง 1 ค่า)
+
+Example Testcases:
+Input: "apple banana apple dog banana apple" → Output: "apple"
+Input: "cat dog cat dog fish" → Output: "cat"
+Input: "Python python PYTHON code" → Output: "python"

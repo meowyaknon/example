@@ -1,0 +1,15 @@
+Description:
+เขียนโปรแกรมเพื่อหาว่ามีตัวอักษรสระ (a, e, i, o, u)
+อยู่ในข้อความทั้งหมดกี่ตัว โดยไม่สนตัวพิมพ์ใหญ่หรือเล็ก
+
+Input Specification:
+- อินพุตเป็นสตริง 1 บรรทัด
+- ประกอบด้วยตัวอักษรภาษาอังกฤษและช่องว่าง
+
+Output Specification:
+- คืนค่าจำนวนเต็ม เป็นจำนวนของสระในข้อความ
+
+Example Testcases:
+Input: "Hello World" → Output: 3
+Input: "PYTHON" → Output: 1
+Input: "aeiouAEIOU" → Output: 10

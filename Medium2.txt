@@ -1,0 +1,15 @@
+Description:
+เขียนโปรแกรมเพื่อหาคำที่มีความยาวมากที่สุดในประโยค
+หากมีหลายคำยาวเท่ากัน ให้คืนคำที่พบก่อน
+
+Input Specification:
+- อินพุตเป็นสตริง 1 บรรทัด
+- คำคั่นด้วยช่องว่าง
+
+Output Specification:
+- คืนค่าคำที่ยาวที่สุดเป็นสตริง
+
+Example Testcases:
+Input: "I love programming in Python" → Output: "programming"
+Input: "ChatGPT is amazing" → Output: "ChatGPT"
+Input: "A quick brown fox" → Output: "quick"
